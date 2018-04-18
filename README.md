@@ -7,7 +7,7 @@
 ## Install
 ```
 git clone https://github.com/gerkirill/js-modules-demo.git
-cd js-modules-demo.git
+cd js-modules-demo
 npm install
 ```
 ## Run
